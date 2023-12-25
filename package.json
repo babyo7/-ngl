@@ -20,7 +20,7 @@
     "tailwindcss": "^3.3.6"
   },
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "keywords": [],
   "author": "",
