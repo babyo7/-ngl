@@ -19,9 +19,6 @@
     "nodemon": "^3.0.2",
     "tailwindcss": "^3.3.6"
   },
-  "engines": {
-    "node": "18.x"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
